@@ -19,9 +19,7 @@ This repository contatins all the files that correspond to the solution of the O
 
 In this exercise we are asked to produce a deep convolutional neural network (DCNN) and an evaluation metric to perform image segmentation on an oil seep image dataset. 
 
-Original image             |  Seep Mask
-:-------------------------:|:-------------------------:
-![]()  |  ![]()
+![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-first.png)
 
 ### Solution
 
@@ -35,7 +33,10 @@ The solution was implemented in **Python** using the Deep Learning Framework **P
 
 ### Results
 
-0. Sample Image with its Groundtruth Mask
+0. Sample Images with their Groundtruth and Predicted Masks
+	![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-seep.png)
+	![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-seep2.jpeg)
+	![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-seep3.jpeg)
 
 0. Train and Validation Loss Curve (1000 epochs, learning rate = 0.005, optimizer = Adam)
 	![Train val loss](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/model-loss.png?token=AFALGVO25TLM7JCQQBIJH3S7XGLVI)
