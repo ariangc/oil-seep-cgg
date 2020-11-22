@@ -38,13 +38,13 @@ The solution was implemented in **Python** using the Deep Learning Framework **P
 	![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-seep2.jpeg)
 	![](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/image-seep3.jpeg)
 
-0. Train and Validation Loss Curve (1000 epochs, learning rate = 0.005, optimizer = Adam)
+0. Train and Validation Loss Curve (100 epochs, learning rate = 0.005, optimizer = Adam)
 	![Train val loss](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/model-loss.png?token=AFALGVO25TLM7JCQQBIJH3S7XGLVI)
 
-0. Train and Validation Dice Coefficient Curve (1000 epochs, learning rate = 0.005, optimizer = Adam)
+0. Train and Validation Dice Coefficient Curve (100 epochs, learning rate = 0.005, optimizer = Adam)
 	![Train val dice](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/model-dice.png?token=AFALGVP24H4KUAREPONT5NS7XGLR4)
 
-0.	Train and Validation Jaccard Coefficient Curve (1000 epochs, learning rate = 0.005, optimizer = Adam)
+0.	Train and Validation Jaccard Coefficient Curve (100 epochs, learning rate = 0.005, optimizer = Adam)
 	![Train val IoU](https://raw.githubusercontent.com/ariangc/oil-seep-cgg/main/results/model-jaccard.png?token=AFALGVLCSBTB65WZBCJGKIC7XGLW2)
 
 ### Testing Statistics
